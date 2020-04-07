@@ -2,6 +2,7 @@
 
 ```
 npm install
+cd ios && pod install && cd .. # see https://github.com/react-native-community/cli/blob/master/docs/autolinking.md#autolinking
 
 // For iOS:
 npm run ios
